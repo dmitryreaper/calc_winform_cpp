@@ -1,0 +1,9 @@
+D:\LABS\semester_2_tasks\labs\lab20\Lab20\x64\Debug\Lab20.vcxproj.AssemblyReference.cache
+D:\LABS\semester_2_tasks\labs\lab20\Lab20\x64\Debug\Lab20.MyForm.resources
+D:\LABS\semester_2_tasks\labs\lab20\Lab20\x64\Debug\Lab20.vcxproj.GenerateResource.cache
+D:\Source\lab20\lab20\Lab20\x64\Debug\Lab20.vcxproj.AssemblyReference.cache
+D:\Source\lab20\lab20\Lab20\x64\Debug\Lab20.MyForm.resources
+D:\Source\lab20\lab20\Lab20\x64\Debug\Lab20.vcxproj.GenerateResource.cache
+D:\Source\lab20\calc_winform_cpp\Lab20\x64\Debug\Lab20.vcxproj.AssemblyReference.cache
+D:\Source\lab20\calc_winform_cpp\Lab20\x64\Debug\Lab20.MyForm.resources
+D:\Source\lab20\calc_winform_cpp\Lab20\x64\Debug\Lab20.vcxproj.GenerateResource.cache

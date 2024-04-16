@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab20.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+D:\Source\lab20\calc_winform_cpp\Lab20\MyForm.h(685,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Source\lab20\calc_winform_cpp\Lab20\MyForm.h(688,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Source\lab20\calc_winform_cpp\Lab20\MyForm.h(691,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Source\lab20\calc_winform_cpp\Lab20\MyForm.h(694,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Source\lab20\calc_winform_cpp\Lab20\MyForm.h(697,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Source\lab20\calc_winform_cpp\Lab20\MyForm.h(705,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Source\lab20\calc_winform_cpp\Lab20\MyForm.h(748,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab20.vcxproj -> D:\Source\lab20\calc_winform_cpp\x64\Debug\calc_winform_cpp.exe
